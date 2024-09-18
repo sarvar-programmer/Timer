@@ -65,7 +65,6 @@ class TaymComponent extends React.Component{
                                 </div>
                                 <div className="col-md-3">
                                     <button className="btn btn-warning" onClick={this.onStop}>Stop</button>
-                                    <h1>d</h1>
                                 </div>
                             </div>
                         </div>
